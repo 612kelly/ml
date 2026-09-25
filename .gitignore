@@ -1,0 +1,5 @@
+# Ignore venv
+.venv-local/
+
+# Ignore CSV datasets in HW2 folder
+HW2/*.csv
