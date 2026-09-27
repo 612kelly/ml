@@ -1,5 +1,12 @@
 # Ignore venv
 .venv-local/
 
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
 # Ignore CSV datasets in HW2 folder
 HW2/*.csv
