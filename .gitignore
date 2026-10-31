@@ -12,4 +12,4 @@ __pycache__/
 HW2/*.csv
 
 # Ignore gz datasets in HW8 folder
-HW8/MNISTdata
+HW8/MNISTdata/*.gz
