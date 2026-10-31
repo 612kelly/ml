@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignore CSV datasets in HW2 folder
 HW2/*.csv
+
+# Ignore gz datasets in HW8 folder
+HW8/*.gz
